@@ -1,7 +1,6 @@
 from selenium import webdriver
-import time
 
-driver  = webdriver.Chrome()
-driver.get("https://www.python.org")
-print("Title:", driver.title)
+driver  = webdriver.Chrome()  #Create a new instance of the Chrome driver
+driver.get("https://www.python.org") #Navigate to the Python website
+print("Title:", driver.title)  #Print the title of the page to confirm it loaded correctly
 driver.quit()
