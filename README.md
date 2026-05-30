@@ -15,7 +15,12 @@ It contains all the required library
     - Introduction (https://medium.com/@shiviiisingh1406/selenium-with-python-for-beginners-complete-introduction-to-automation-testing-7406f5a6fc8f)
     - for the code example (browser_open.py)
 
-    - Selenium  with Python Environment setup (https://medium.com/@shiviiisingh1406/setting-up-selenium-with-python-properly-understanding-browser-drivers-and-selenium-manager-876793cc91ac)
+2. Selenium  with Python Environment setup 
+    (https://medium.com@shiviiisingh1406setting-up-selenium-with-python-properly-understanding-browser-drivers-and-selenium-manager-876793cc91ac)
     - for the code example (driver_check.py and multiple_browser_test.py)
 
-<!-- 2. Understanding WebDriver and Browser Control Commands -->
+2. Understanding WebDriver and Browser Control Commands
+    - 
+    - for the navigation commands
+    - for the browser methods
+    - for close() vs quit()

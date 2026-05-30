@@ -32,4 +32,4 @@ time.sleep(3)
 
 
 # quit the browser - close all the windows opened by the webdriver
-# driver.quit() # quit() method is used to close all the windows opened by the webdriver and end the session
+driver.quit() # quit() method is used to close all the windows opened by the webdriver and end the session
