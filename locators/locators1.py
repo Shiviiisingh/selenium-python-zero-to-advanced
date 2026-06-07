@@ -19,7 +19,9 @@ time.sleep(2)
 
 #locating username input field  by ID locator  and sending value "standard_user" to it using send_keys() method.
 driver.find_element(By.ID, "user-name").send_keys("standard_user") 
-driver.find_element(By.ID, "password").send_keys("secret_sauce")
+
+#locating password input field by NAME locator and sending value "secret_sauce" to it using send_keys() method.
+driver.find_element(By.NAME, "password").send_keys("secret_sauce")
 
 #locating login button by CLASS_NAME locator and clicking on it using click() method.
 driver.find_element(By.CLASS_NAME, "submit-button").click()
