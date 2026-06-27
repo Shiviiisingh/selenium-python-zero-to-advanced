@@ -21,6 +21,5 @@ It contains all the required library
 
 2. Understanding WebDriver and Browser Control Commands
     - 
-    - for the navigation commands
-    - for the browser methods
-    - for close() vs quit()
+    - for the navigation commands and browser methods ( navigation_command.py and browser_methods.py)
+    - for close() vs quit() --- (close_vs_quit.py)
